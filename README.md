@@ -1,14 +1,19 @@
-# metodologias
+# Metodologias
 
-## Curso de Desenvolvimento Web pelo Senac em parceria com o Porto Digital e M.I.N.A.s
+## Curso de Desenvolvimento Web pelo Senac em parceria com o Porto Digital e M.I.N.A.s 	:woman_technologist:
 
-Na aula de hoje aprendemos sobre metodologias ágeis. O que foi abordado hoje: TDD, SCRUM, KANBAN,  e LEAN.
+Na aula de hoje aprendemos sobre metodologias ágeis. O que foi abordado hoje: TDD, SCRUM, KANBAN  e LEAN.
 ****************
--  TDD 
-Test Driven Development ou Desenvolvimento guiado por Testes, apresentado por Vanessa e Renata, é uma abordagem de desenvolvimento de sw que enfatiza a criação de testes antes da implementação. 
+- :pushpin: <b>TDD</b>
+<em>Test Driven Development</em> ou Desenvolvimento Guiado por Testes, é uma abordagem de desenvolvimento de sw que enfatiza a criação de testes antes da implementação. 
 ****************
-- SCRUM
-Apresentado por mim e Ana Rita, é um Framework ou uma metodologia ágil, que teve seu nome inspirado no esporte Rugby, é uma estrutura leve que ajuda as pessoas, equipes e organização a gerar valor através 
+- :pushpin: <b>SCRUM</b>
+para muito é considerado uma metodologia ágil para seu criador um Framework. Teve seu nome inspirado no esporte Rugby, é uma estrutura leve que ajuda as pessoas, equipes e organização a gerar valor através de soluções para problemas complexos. O Scrum propõe que o projeto seja dividido em diversos ciclos (pequenos) de atividades com reuniões frequentes para que a equipe possa alinhar o que vem fazendo e pensar formas de melhorar o processo com agilidade.
 ******************
-- KANBAN
+- :pushpin: <b>KANBAN</b>
+o nome tem sua origem do japonês que significa "cartão". O cartão é a representação de um tarefa ou ação que precisa ser tomada. Em suma, é um sistema de gerenciamento visual que pode ser aplicado em uma variedade de context evitando assim desperdícios e garantindo uma entrega do produto no prazo certo. 
 ***********************
+- :pushpin: <b>LEAN</b>
+a metodologia Lean, consiste numa abordagem de gestão que visa maximizar a eficiência e redução de desperdicios em processos produtivos. Um exemplo de aplicação da agilidade é a implementação no Kanban. Para isso, é necessário mapear o fluxo de produção e identificar quais são os gargalos e desperdicios. 
+
+
