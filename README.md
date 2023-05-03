@@ -15,5 +15,6 @@ o nome tem sua origem do japonês que significa "cartão". O cartão é a repres
 ***********************
 - :pushpin: **LEAN**
 a metodologia Lean, consiste numa abordagem de gestão que visa maximizar a eficiência e redução de desperdicios em processos produtivos. Um exemplo de aplicação da agilidade é a implementação no Kanban. Para isso, é necessário mapear o fluxo de produção e identificar quais são os gargalos e desperdicios. 
-
+********************
+- :pushpin: **XP**
 
