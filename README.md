@@ -5,7 +5,7 @@
 Na aula de hoje aprendemos sobre metodologias ágeis. O que foi abordado hoje: _**TDD, SCRUM, KANBAN  e LEAN.**_
 ****************
 - :pushpin: **TDD**
-_Test Driven Development_ ou Desenvolvimento Guiado por Testes, é uma abordagem de desenvolvimento de sw que enfatiza a criação de testes antes da implementação. 
+_Test Driven Development_ ou Desenvolvimento Orientado por Testes, é uma abordagem de desenvolvimento de sw que enfatiza a criação de testes antes da implementação. 
 ****************
 - :pushpin: **SCRUM**
 para muito é considerado uma metodologia ágil para seu criador um Framework. Teve seu nome inspirado no esporte Rugby, é uma estrutura leve que ajuda as pessoas, equipes e organização a gerar valor através de soluções para problemas complexos. O Scrum propõe que o projeto seja dividido em diversos ciclos (pequenos) de atividades com reuniões frequentes para que a equipe possa alinhar o que vem fazendo e pensar formas de melhorar o processo com agilidade.
